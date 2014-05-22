@@ -1,2 +1,5 @@
 *.pyc
 logRegres/abc
+
+svm0/testDigits/
+svm0/trainingDigits/
